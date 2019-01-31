@@ -1,0 +1,23 @@
+{
+  "name": "amici-events-solution",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sheetgo/amici-events-solution"
+  },
+  "author": {
+    "name": "Willian Vargas",
+    "email": "willian@sheetgo.com",
+    "url": "https://github.com/willianvargas"
+  },
+  "license": "MIT",
+  "keywords": [
+    "apps-script",
+    "google-sheets",
+    "google-forms"
+  ],
+  "dependencies": {
+    "eslint": "^5.12.1",
+    "eslint-plugin-googleappsscript": "^1.0.1"
+  }
+}
